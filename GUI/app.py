@@ -118,7 +118,7 @@ else:
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 # Application name macro definition (will be updated by AppManager)
-APP_NAME = "Office Cowork"
+APP_NAME = "Claude Cowork for Office"
 
 from src.main import OfficeCoworkMain
 from app_manager import AppManager
