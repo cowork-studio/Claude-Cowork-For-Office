@@ -27,7 +27,7 @@ While Open Cowork offers a similar collaborative AI experience to Claude cowork,
 
 ## GUI for Vibe Everything
 
-![GUI](./md/images/Open Cowork_GUI.png)
+![GUI](./md/images/OpenCowork_GUI.png)
 
 **Open Cowork** follows a Plan based ReAct model for complicated task execution. It employs a multi-round iterative working mechanism where the large model can make tool calls and receive feedback results in each round. It is used to update files in the workspace or change the external environment through tools according to user needs. Open Cowork can autonomously call a wide range of MCP tools and operating system tools, featuring multi-agent collaboration, multi-level long-term memory, and embodied intelligence perception. It emphasizes the generality and autonomous decision-making capabilities of the agent. Open Cowork's extensive operating system support, large model support, and multiple operation modes make it suitable for building human-like general intelligence systems to achieve complex report research and generation, project-level code writing, automatic computer operation, multi-agent research (such as competition, debate, collaboration) and other applications.
 
