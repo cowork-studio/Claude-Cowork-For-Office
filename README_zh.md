@@ -309,8 +309,10 @@ Open Cowork 现在支持在代码中直接作为 Python 库调用，提供类似
 - ⚡ 动态工具发现和注册
 
 ## 🚀 快速开始
-您可以访问 https://agiagentonline.com/ 试用！ 
+您可以访问 https://agiagentonline.com/opencoworker 试用！ 
 备用地址 http://156.238.255.79:5002
+您可以使用空的 API key 以游客身份登录并体验演示功能。
+您也可以通过手机号登录，开始新的任务。
 
 ## 联系我们
 您可以通过提交 Issue 来提交问题或建议。如需进一步沟通，您可以发送邮件至 bitcursor@2925.com
